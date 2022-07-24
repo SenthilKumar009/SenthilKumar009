@@ -10,4 +10,4 @@
 - 😄 Pronouns: I'm Alien...
 - ⚡ Fun fact: I believe that I'm an Alien.
 
-https://github-readme-stats.vercel.app/api?username=SenthilKumar009&&show_icons=true&&tile_color=ffffff&icon_color=bb2acf&7text_color=dafff7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=SenthilKumar009&&show_icons=true&&tile_color=ffffff&icon_color=bb2acf&7text_color=dafff7dc&bg_color=151515" />
