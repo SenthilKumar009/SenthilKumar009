@@ -1,20 +1,26 @@
-### Welcome to my Portfolio 👋
+### Hi there 👋, my name is Senthil Kumar
+#### I am a Big Data Developer
+I am Senthil Kumar Kanagaraj from Chennai, India. I am self taught Big Data Developer, who love to solve the real time problems using data and related tools. I have a good knowledge in development end to end data pipelines using spark eco system technologies and scaling myself into cloud as well. Now I am building a portfolio to share the knowledge I have developed and my daily learning through various gateways like Github, LinkedIn, Twitter, and etc.
 
-# Senthil Kumar Kanagaraj
-I am Senthil Kumar Kanagaraj from Chennai, India. I am self taught Big Data Developer, who love to solve the real time problems using data and related tools. I have a good knowledge in developement end to end data pipelines using spark eco system technologies and sclaing myself into cloud as well. Now I am buling a portfolio to share the knowlege I have developed and my daily learning through various gateways like Github, LinkedIn, Twitter, and etc.
+Skills: Spark / Python / SQL / Big Data Analytics / Databricks
 
-I'm a passionate learn who like to learn and teach. I love to play cricket. My other hobbies are reading books, pencil arts, traveling and Photography. 
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Azure Data Engineering 
+- 👯 I’m looking to collaborate on Big Data Analytics Projects 
+- 🤔 I’m looking for help with SQL, Python and PySpark 
+- 📫 How to reach me: Find a better way to reach you guys 
+- 😄 Pronouns: I'm an Alien 
+- ⚡ Fun fact: I believe that I'm an Alien 
 
-Currently I'm leanring Azure Data Engineering related skills and making my hand more durty my touching Machine Learning as well to build model by the data I prepared.
 
-## Skills and Experience
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SenthilKumar009)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/skkthenotorious)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/senthil-kumar-kanagaraj//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/SKK_TheNeo)  
 
-* 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SenthilKumar009)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning Kafka, Azure and Databrricks...
-- 💬 Ask me about Big data, Python, SQL, Spark...
-- 📫 How to reach me: I'm just finding a best way to reach you guys...
-- 😄 Pronouns: I'm Alien...
-- ⚡ Fun fact: I believe that I'm an Alien.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenthilKumar009)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=SenthilKumar009&&show_icons=true&&tile_color=ffffff&icon_color=bb2acf&7text_color=dafff7dc&bg_color=151515" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SenthilKumar009&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SenthilKumar009)  
+
+![Profile views](https://gpvc.arturio.dev/SenthilKumar009)  
