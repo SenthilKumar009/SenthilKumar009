@@ -5,7 +5,7 @@ I am Senthil Kumar Kanagaraj from Chennai, India. I am self taught Big Data Deve
 Skills: Spark / Python / SQL / Big Data Analytics / Databricks
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Azure Data Engineering 
+- 🌱 I’m currently learning Azure and Databricks for Data Engineering 
 - 👯 I’m looking to collaborate on Big Data Analytics Projects 
 - 🤔 I’m looking for help with SQL, Python and PySpark 
 - 📫 How to reach me: Find a better way to reach you guys 
