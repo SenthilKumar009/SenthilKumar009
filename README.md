@@ -3,7 +3,9 @@
 
 :man_technologist: About Me :man_in_tuxedo:
 
-   :house: : Chennai, India
+- :house: Chennai, India
+- :seedling: reading :books:
+- :dart: :cricket_game:, :weight_lifting_man:, :bicyclist: 
 
 I am Senthil Kumar Kanagaraj from Chennai, India. I am self taught Big Data Developer, who love to solve the real time problems using data and related tools. I have a good knowledge in development end to end data pipelines using spark eco system technologies and scaling myself into cloud as well. Now I am building a portfolio to share the knowledge I have developed and my daily learning through various gateways like Github, LinkedIn, Twitter, and etc.
 
