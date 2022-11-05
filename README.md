@@ -3,15 +3,27 @@
 
 :man_technologist: About Me :man_in_tuxedo:
 
+   :house: : Chennai, India
+
 I am Senthil Kumar Kanagaraj from Chennai, India. I am self taught Big Data Developer, who love to solve the real time problems using data and related tools. I have a good knowledge in development end to end data pipelines using spark eco system technologies and scaling myself into cloud as well. Now I am building a portfolio to share the knowledge I have developed and my daily learning through various gateways like Github, LinkedIn, Twitter, and etc.
 
-Skills: Spark / Python / SQL / Big Data Analytics / Databricks/ Power BI/ Story Telling
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Azure and Databricks for Data Engineering 
-- 👯 I’m looking to collaborate on Big Data Analytics Projects 
+:bulb: Skills
+
+- Spark 
+- Python
+- SQL 
+- Big Data Analytics
+- Databricks
+- Power BI
+- Snowflake
+- Azure Data Factory
+
+- 🔭 I’m currently upscaling myself to become a Freelancing Data Engineer. 
+- 🌱 I’m currently learning Azure and Databricks to enhance myself. 
+- 👯 I’m looking to collaborate on Big Data Analytics Projects. 
 - 🤔 I’m looking for help with SQL, Python and PySpark 
-- 📫 How to reach me: Find a better way to reach you guys 
+- 📫 How to reach me: Finding a better way to reach you guys 
 - 😄 Pronouns: I'm an Alien 
 - ⚡ Fun fact: I believe that I'm an Alien 
 
