@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Senthil Kumar Kanagaraj
-#### I am a Big Data Developer
+#### I am a Data Engineer
 
 :man_technologist: About Me :man_in_tuxedo:
 
@@ -9,6 +9,8 @@
 - :dart: :cricket_game:, :weight_lifting_man:, :bicyclist: 
 
 :bulb: Skills :bulb:
+
+Languages: 
 
 - Spark 
 - Python
@@ -42,6 +44,8 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/SenthilKumar009)    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='30'>](https://dev.to/https://dev.to/skkthenotorious)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/senthil-kumar-kanagaraj//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/https://twitter.com/SKK_TheNeo)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SenthilKumar009&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SenthilKumar009)  
 
