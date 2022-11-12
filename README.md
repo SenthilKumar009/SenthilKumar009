@@ -10,10 +10,6 @@
 
 :bulb: Skills :bulb:
 
-Languages: 
-            <i class="devicon-python-plain colored"></i>
-          
-
 - Spark 
 - Python
 - SQL 
