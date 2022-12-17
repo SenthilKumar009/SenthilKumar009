@@ -22,7 +22,8 @@
 :books: Courses and Certification :books:
 
 - Microsoft Certified: Power BI Data Analyst Associate
-- Microsoft Certified: Power BI Data Analyst Associate
+- Microsoft Certified: Azure Data Funadamentals
+- Microsoft Certified: Azure AI Funadamentals
 
 :microscope: Current Works :microscope:
 
