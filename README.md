@@ -5,7 +5,7 @@
 
 - :house: Chennai, India
 - :briefcase: Deloitte
-- :seedling: reading :books:, :art:, :camera_flash:
+- :seedling:  :books:, :art:, :camera_flash:
 - :dart: :cricket_game:, :weight_lifting_man:, :bicyclist: 
 
 :bulb: Skills :bulb:
