@@ -25,6 +25,11 @@
 - Microsoft Certified: Azure Data Funadamentals
 - Microsoft Certified: Azure AI Funadamentals
 
+:v: Projects :v:
+
+<a href ='https://github.com/SenthilKumar009/SQL_Learning/blob/main/SQL%20Projects/Olympic%20-%20Data%20Analysis/olympic_data_analysis.md'> Olympic Data Analysis</a>
+
+
 :microscope: Current Works :microscope:
 
 - 🔭 Upscaling myself to become a Freelancing Data Engineer. 
