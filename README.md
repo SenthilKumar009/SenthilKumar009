@@ -42,6 +42,12 @@
 - 😄 Pronouns: I'm an Alien 
 - ⚡ Fun fact: I believe that I'm an Alien 
 
+:dart: Goals :dart:
+
+- :speaking_head: TED Talk @ Arlington, TX, USA
+- :thought_balloon: Entrepreneurship
+- 
+
 :abacus: My Portfolios :desktop_computer:
 
 
