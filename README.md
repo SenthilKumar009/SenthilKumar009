@@ -46,7 +46,6 @@
 
 - :speaking_head: TED Talk @ Arlington, TX, USA
 - :thought_balloon: Entrepreneurship
-- 
 
 :abacus: My Portfolios :desktop_computer:
 
