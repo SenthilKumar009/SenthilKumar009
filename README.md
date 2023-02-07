@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Senthil Kumar Kanagaraj
 #### I am a Data Engineer
 
+### Quote: <i> You create your Life... Create wisely... </i>
+
 :man_technologist: About Me :man_in_tuxedo:
 
 - :house: Chennai, India
