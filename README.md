@@ -20,6 +20,7 @@
 - Power BI
 - Snowflake
 - Azure Data Factory
+- Tableau
 
 :books: Courses and Certification :books:
 
