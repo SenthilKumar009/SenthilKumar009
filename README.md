@@ -24,9 +24,10 @@
 
 :books: Courses and Certification :books:
 
-- Microsoft Certified: Power BI Data Analyst Associate
-- Microsoft Certified: Azure Data Funadamentals
-- Microsoft Certified: Azure AI Funadamentals
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Data Funadamentals (DP-900)
+- Microsoft Certified: Azure AI Funadamentals (AI-900)
 
 :v: Projects :v:
 
