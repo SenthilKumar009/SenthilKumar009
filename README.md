@@ -50,6 +50,7 @@
 
 - :speaking_head: TED Talk @ Arlington, TX, USA
 - :thought_balloon: Entrepreneurship
+- :1st_place_medal: Olympic 2028
 
 :abacus: My Portfolios :desktop_computer:
 
