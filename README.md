@@ -5,21 +5,20 @@
 
 :man_technologist: About Me :man_in_tuxedo:
 
-- :house: Chennai, India
-- :briefcase: Deloitte
+- :house: Indianapolis, USA
 - :seedling:  :books:, :art:, :camera_flash:
 - :dart: :cricket_game:, :weight_lifting_man:, :bicyclist: 
 
 :bulb: Skills :bulb:
 
+- Big Data Analytics
+- Azure Data Engineer
 - Spark 
 - Python
 - SQL 
-- Big Data Analytics
 - Databricks
-- Power BI
 - Snowflake
-- Azure Data Factory
+- Power BI
 - Tableau
 
 :books: Courses and Certification :books:
@@ -48,7 +47,7 @@
 
 :dart: Goals :dart:
 
-- :speaking_head: TED Talk @ Arlington, TX, USA
+- :speaking_head: TED Talks
 - :thought_balloon: Entrepreneurship
 - :scientist: Master in Azure Technologies
 
