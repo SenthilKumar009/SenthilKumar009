@@ -6,6 +6,7 @@
 :man_technologist: About Me :man_in_tuxedo:
 
 - :house: Chennai, :india:
+- :office: Indianapolis, :usa:
 - :seedling:  :books:, :art:, :camera_flash:
 - :dart: :cricket_game:, :weight_lifting_man:, :bicyclist: 
 
