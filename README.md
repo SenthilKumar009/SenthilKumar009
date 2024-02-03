@@ -28,7 +28,7 @@
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - Microsoft Certified: Azure Data Funadamentals (DP-900)
 - Microsoft Certified: Azure AI Funadamentals (AI-900)
-- Databricks Certifiesd Data Engineer Associate Professional
+- Databricks Certified Data Engineer Associate Professional
 
 :v: Projects :v:
 
